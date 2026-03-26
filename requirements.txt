@@ -5,7 +5,7 @@ ttkthemes==3.2.2
 pytimedinput==2.0.1
 beautifulsoup4==4.12.3
 undetected-chromedriver
-requests==2.31.0
+requests==2.33.0
 blinker<1.8.0
 pandas
 tqdm
